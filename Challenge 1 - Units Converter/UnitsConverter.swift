@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Units Converter
 //
-//  Created by Allison on 2023-05-24.
+//  Created by Allison Cretel on 2023-05-24.
 //
 
 import SwiftUI
@@ -65,8 +65,7 @@ struct ContentView: View {
                 }
                 
                 Section {
-                    let rounded = String(format: "%.2f", temp2)
-                    Text("\(rounded)")
+                    Text("\(temp2.formatted())")
                     
                     Picker("unit 2", selection: $unit2) {
                         ForEach(tempUnits.allCases, id: \.self) {
