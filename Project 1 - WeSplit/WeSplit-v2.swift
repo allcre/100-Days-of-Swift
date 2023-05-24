@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeSplit
 //
-//  Created by Allison Cretel on 2023-05-24.
+//  Created by Allison on 2023-05-24.
 //
 
 import SwiftUI
