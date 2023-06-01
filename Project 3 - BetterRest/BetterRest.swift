@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  BetterRest
 //
-//  Created by Allison Cretel on 2023-05-29.
+//  Created by Allison on 2023-05-29.
 //
 
 import CoreML
